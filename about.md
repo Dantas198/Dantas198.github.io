@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<!--
 Hello, I'm Marco Dantas, and im a a software engineer student.
 
 You can find the source code for Minima at GitHub:
@@ -16,3 +16,4 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+-->
