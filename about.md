@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I'm Marco Dantas, and im a a software engineer student.
+Hello, I'm Marco Dantas, and im a a software engineer student
 <!--
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
